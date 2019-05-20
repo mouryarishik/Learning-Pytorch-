@@ -1,2 +1,1 @@
-# Learning-Pytorch-
-Trying to learn pytorch
+# Pytorch benchmarks
